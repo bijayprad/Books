@@ -1,0 +1,80 @@
+Quantitative Methods for Management (STA 511)
+
+Unit 1: Foundations of Quantitative Methods [6 Hours]
+1.1 Introduction to Quantitative Methods
+Role of quantitative methods in business
+Applications in risk and insurance management
+Software tools for quantitative analysis
+Overview of data-driven decision-making
+Example of predicting claim frequencies
+
+1.2 Data Types and Measurement Scales
+Nominal, ordinal, interval, and ratio scales
+Qualitative vs. quantitative data
+Structured vs. unstructured data
+Data quality issues (accuracy, completeness, consistency)
+
+1.3 Descriptive Statistics
+Measures of central tendency (mean, median, mode)
+Measures of dispersion (variance, standard deviation, range)
+Data visualization (histograms, box plots, scatter plots)
+Practical exercise on claim amounts distribution
+Skewness and Kurtosis
+
+Unit 2: Probability and Risk Analysis [6 Hours]
+
+2.1 Basics of Probability
+Probability rules and theorems
+Conditional probability
+Bayes’ theorem
+Real-world examples in business and insurance
+
+2.2 Probability Distributions
+Discrete distributions (Binomial, Poisson)
+Continuous distributions (Normal, Exponential)
+Heavy-tailed distributions (Pareto)
+
+2.3 Applications in Risk Management
+Risk assessment using probability
+Monte Carlo simulations for risk modeling
+
+Unit 3: Statistical Inference [4 Hours]
+3.1 Sampling and Estimation
+Sampling methods (random, stratified, cluster)
+Sampling bias
+Point estimation
+Confidence intervals
+
+3.2 Hypothesis Testing
+Null and alternative hypotheses
+p-values
+Significance levels
+Applications in business and insurance
+
+Unit 4: Introduction to Predictive Modeling [4 Hours]
+4.1 Correlation and Regression Analysis
+Correlation
+Simple linear regression
+Interpretation of regression outputs
+Predictive modeling
+Multicollinearity
+
+4.2 Introduction to Time Series Analysis
+Trend
+Seasonality
+Forecasting basics
+Insurance premium forecasting
+ARIMA models
+
+Unit 5: Decision Analysis and Optimization Techniques [4 Hours]
+5.1 Decision Analysis
+Decision trees
+Expected utility theory
+Applications in underwriting and risk assessment
+Sensitivity analysis
+
+5.2 Optimization Techniques
+Linear programming
+Resource allocation
+Portfolio management
+Risk mitigation
