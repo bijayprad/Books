@@ -30,7 +30,7 @@ Reference Books
 
 [Embrechts, P., Kluppelberg, C., & Mikosch, T. (1997). Modelling external events for insurance and finance. Springer. ](https://drive.google.com/file/d/1i8ooC58cYJNVwfVcUBuRQ16pKCchPx-h/view?usp=sharing)
 
-[International Association of Insurance Supervisors (IAIS). (2018). Application paper on the use of big data analytics in insurance. ](200319-Issues-Paper-on-Use-of-Big-Data-Analytics-in-Insurance-FINAL.pdf)
+[International Association of Insurance Supervisors (IAIS). (2018). Application paper on the use of big data analytics in insurance. ](https://www.iais.org/uploads/2022/01/200319-Issues-Paper-on-Use-of-Big-Data-Analytics-in-Insurance-FINAL.pdf)
 
 [Hyndman, R. J., & Athanasopoulos, G. (2021). Forecasting: Principles and practice (3rd ed.). OTexts. ](https://drive.google.com/file/d/1bbyJUmXtq3HBSs-Nt_DbKCMc6BOxHcGy/view?usp=sharing)
 
