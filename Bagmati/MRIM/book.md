@@ -6,7 +6,7 @@ Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. 
 
 2.[
 Newbold, P., Carlson, W. L., & Thorne, B. (2019). Statistics for Business and Economics (9th ed.). Pearson. 
-https://drive.google.com/file/d/1k98WQVIPlRdUXjj4A-4_cpAU9mS3KSkv/view?usp=sharing)
+](https://drive.google.com/file/d/1k98WQVIPlRdUXjj4A-4_cpAU9mS3KSkv/view?usp=sharing)
 
 
 3.[
